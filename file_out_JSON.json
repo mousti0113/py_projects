@@ -1,0 +1,57 @@
+{
+    "studenti": [
+        {
+            "matricola": 12345,
+            "nome": "Mario Rossi",
+            "conoscenze": [
+                "Python",
+                "Java",
+                "C++"
+            ],
+            "classe": "3A",
+            "anno_di_nascita": 2005
+        },
+        {
+            "matricola": 67890,
+            "nome": "Lucia Bianchi",
+            "conoscenze": [
+                "Java",
+                "Spring"
+            ],
+            "classe": "2B",
+            "anno_di_nascita": 2006
+        },
+        {
+            "matricola": 11111,
+            "nome": "Giovanni Verdi",
+            "conoscenze": [
+                "C++",
+                "Rust"
+            ],
+            "classe": "4C",
+            "anno_di_nascita": 2004
+        },
+        {
+            "matricola": 22222,
+            "nome": "Anna Neri",
+            "conoscenze": [
+                "JavaScript",
+                "Angular"
+            ],
+            "classe": "1A",
+            "anno_di_nascita": 2007
+        },
+        {
+            "matricola": 33333,
+            "nome": "Luca Blu",
+            "conoscenze": [
+                "SQL",
+                "Python"
+            ],
+            "classe": "3B",
+            "anno_di_nascita": 2005
+        }
+    ],
+    "totale_studenti": 5,
+    "file_origine": "file_in_CSV.csv"
+}
